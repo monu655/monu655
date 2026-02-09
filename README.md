@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Monu Gautam
 
 **Junior Web & Software Developer | 2025 Pass Out**  
-📍 Mumbai, India | 📧 monum655@gmail.com | 📱 +91 7208134311  
+📍 Mumbai, India | 📧 monugautam655@gmail.com | 📱 +91 7208134311  
 🔗 GitHub: [monu655](https://github.com/monu655)
 
 
@@ -80,5 +80,5 @@ CGPA: 6.96
 ---
 
 ## 📫 Contact Me
-- GitHub: [https://github.com/inanu656](https://github.com/inanu656)  
-- Email: monum655@gmail.com  
+🔗 GitHub: [monu655](https://github.com/monu655)
+- Email: monugautam655@gmail.com  
