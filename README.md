@@ -82,4 +82,3 @@ CGPA: 6.96
 ## 📫 Contact Me
 - GitHub: [https://github.com/inanu656](https://github.com/inanu656)  
 - Email: monum655@gmail.com  
-- Portfolio / Live Projects: [Landing Page](https://monu655.github.io/landing-page/)
