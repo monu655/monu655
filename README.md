@@ -36,20 +36,29 @@ CGPA: 6.96
 ### **Landing Page Template**
 - Tech: HTML, CSS, Flexbox & Grid  
 - Fully responsive layout  
-- Live: [Landing Page](https://monu655.github.io/landing-page/)  
-
-### **Quiz Builder Web App**
-- Tech: HTML, CSS, JavaScript, Firebase  
-- Google Auth, Auto-save drafts, Timer  
-- Fully mobile responsive  
-
-### **Tic Tac Toe Game**
-- Tech: HTML, CSS, JavaScript  
-- PvP & AI, Undo move, Score tracking  
+- Live: [Landing Page](https://monu655.github.io/landing-page/)
 
 ### **Calculator Web App**
 - Tech: HTML, CSS, JavaScript  
-- Responsive layout, clean UI  
+- Responsive calculator with AC, DEL, arithmetic operations  
+- Clean UI and user-friendly design  
+- Live: [Calculator Web App](https://monu655.github.io/Calculator_web_app/)
+
+### **Tic Tac Toe Game**
+- Tech: HTML, CSS, JavaScript  
+- Player vs Player & Player vs Computer (AI)  
+- Undo move, hint system, score tracking  
+- Responsive layout  
+- Live: [Tic Tac Toe](https://monu655.github.io/tic-tac-toe/)
+
+### **Quiz Builder Web App**
+- Tech: HTML, CSS, JavaScript, Firebase  
+- Google Authentication integration  
+- Quiz creation with auto-save drafts  
+- 30-second timer per question  
+- Firestore-based data storage  
+- Fully mobile-responsive  
+- Live: [Quiz Builder](https://quiz-builder-a158d.web.app)
 
 ---
 
@@ -64,12 +73,12 @@ CGPA: 6.96
 ## 🌟 Why Hire Me
 - Internship-certified Python Developer  
 - Strong debugging & problem-solving skills  
-- Quick learner, practical project experience  
+- Quick learner with practical project experience  
 - Passionate about building clean, user-friendly applications  
 
 ---
 
 ## 📫 Contact Me
 - GitHub: [https://github.com/inanu656](https://github.com/inanu656)  
-- Portfolio / Live Projects: [Landing Page](https://monu655.github.io/landing-page/)  
-- Email: monum655@gmail.com
+- Email: monum655@gmail.com  
+- Portfolio / Live Projects: [Landing Page](https://monu655.github.io/landing-page/)
