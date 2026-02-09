@@ -1,6 +1,6 @@
 👋 Hi, I’m Monu Gautam, 22 years old.  
 
-👀 My interests are in Frontend & Full-Stack Web Development.  
+👀 My interests are in **Junior Web & Software Developer 
 
 🌱 I have graduated with a **B.Sc. Information Technology (IT)** from Rajiv Gandhi College of Arts, Commerce & Science.  
 
