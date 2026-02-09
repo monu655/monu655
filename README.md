@@ -2,7 +2,8 @@
 
 **Junior Web & Software Developer | 2025 Pass Out**  
 📍 Mumbai, India | 📧 monum655@gmail.com | 📱 +91 7208134311  
-🔗 GitHub: [inanu656](https://github.com/inanu656)
+🔗 GitHub: [monu655](https://github.com/monu655)
+
 
 ---
 
