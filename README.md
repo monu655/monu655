@@ -1,31 +1,22 @@
-👋 Hi, I’m Monu Gautam, 22 years old.  
+👋 Hi, I'm Monu Gautam, 22 years old.
 
-👀 My interests are in **Junior Web & Software Developer 
+👀 I'm a Junior Web Developer from Mumbai.
 
-🌱 I have graduated with a **B.Sc. Information Technology (IT)** from Rajiv Gandhi College of Arts, Commerce & Science.  
+🌱 B.Sc. Information Technology (IT) - Rajiv Gandhi College
 
----
+## TECH STACK
+- HTML, CSS, JavaScript
+- React, TypeScript
+- Node.js, MongoDB
+- Firebase, MySQL
+- Python, C
 
-TECH STACK
+## PROJECTS (Live Links)
+- **Project Tracker** (React + TypeScript): https://project-tracker-black-one.vercel.app
+- **RoomieFind**: https://monu655.github.io/roomiefind/
+- **LoanIQ**: https://monu655.github.io/Loan_-IQ/
+- **Quiz Builder**: https://quiz-builder-a158d.web.app
+- **Calculator**: https://monu655.github.io/Calculator_web_app/
 
-- HTML
-- CSS
-- JavaScript
-- Python
-- C
-- Firebase
-- MySQL
-
----
-
-PROJECTS (Live Links)
-
-- Landing Page Template: https://monu655.github.io/landing-page/  
-- Calculator Web App: https://monu655.github.io/Calculator_web_app/  
-- Tic Tac Toe Game: https://monu655.github.io/tic-tac-toe/  
-- Quiz Builder Web App: https://quiz-builder-a158d.web.app  
-
----
-
-EMAIL: monugautam655@gmail.com  
-GitHub: https://github.com/monu655
+📧 monugautam655@gmail.com
+🔗 https://github.com/monu655
