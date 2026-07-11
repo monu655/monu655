@@ -1,22 +1,38 @@
-👋 Hi, I'm Monu Gautam, 22 years old.
+Hi there 👋 I'm Monu Gautam
 
-👀 I'm a Junior Web Developer from Mumbai.
+🚀 React JS Developer | Frontend Developer | Web Developer
 
-🌱 B.Sc. Information Technology (IT) - Rajiv Gandhi College
+Currently working as a Web Developer at Digiigrow, where I build and maintain live client websites for healthcare, business, and service-based organizations.
 
-## TECH STACK
-- HTML, CSS, JavaScript
-- React, TypeScript
-- Node.js, MongoDB
-- Firebase, MySQL
-- Python, C
+💼 Experience Highlights
 
-## PROJECTS (Live Links)
-- **Project Tracker** (React + TypeScript): https://project-tracker-black-one.vercel.app
-- **RoomieFind**: https://monu655.github.io/roomiefind/
-- **LoanIQ**: https://monu655.github.io/Loan_-IQ/
-- **Quiz Builder**: https://quiz-builder-a158d.web.app
-- **Calculator**: https://monu655.github.io/Calculator_web_app/
+- Developed and delivered 13+ live client websites
+- Worked with React JS, Next.js, JavaScript, Node.js, and REST APIs
+- Managed deployments on Hostinger, GoDaddy cPanel, Netlify, and Vercel
+- Built AI-integrated applications using Groq AI API and Gemini API
+
+💻 Tech Stack
+
+- React JS
+- Next.js
+- JavaScript (ES6+)
+- HTML5 & CSS3
+- Tailwind CSS
+- Node.js & Express.js
+- MongoDB, Firebase & MySQL
+- Git & GitHub
+
+🚀 Featured Projects
+
+- RefundAI – AI Powered Refund Agent
+- RoomieFind – Flatmate Finder App
+- Project Tracker – Task Management App
+- A-CONNEXION Tech – Corporate Website
+- LoanIQ – Loan & EMI Calculator
+
+📫 Connect With Me
 
 📧 monugautam655@gmail.com
-🔗 https://github.com/monu655
+📍 Mumbai, India
+
+Open to React JS Developer, Frontend Developer and Web Developer opportunities.
