@@ -22,13 +22,6 @@ Currently working as a Web Developer at Digiigrow, where I build and maintain li
 - MongoDB, Firebase & MySQL
 - Git & GitHub
 
-🚀 Featured Projects
-
-- RefundAI – AI Powered Refund Agent
-- RoomieFind – Flatmate Finder App
-- Project Tracker – Task Management App
-- A-CONNEXION Tech – Corporate Website
-- LoanIQ – Loan & EMI Calculator
 
 📫 Connect With Me
 
